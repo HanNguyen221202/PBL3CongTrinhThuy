@@ -1,0 +1,22 @@
+C:\Users\Admin\source\repos\Code PBL 3 (Super Version)\Code PBL 3 (Super Version)\bin\Debug\Code PBL 3 (Super Version).exe.config
+C:\Users\Admin\source\repos\Code PBL 3 (Super Version)\Code PBL 3 (Super Version)\bin\Debug\Code PBL 3 (Super Version).exe
+C:\Users\Admin\source\repos\Code PBL 3 (Super Version)\Code PBL 3 (Super Version)\bin\Debug\Code PBL 3 (Super Version).pdb
+C:\Users\Admin\source\repos\Code PBL 3 (Super Version)\Code PBL 3 (Super Version)\obj\Debug\Code PBL 3 (Super Version).csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Code PBL 3 (Super Version)\Code PBL 3 (Super Version)\obj\Debug\Code PBL 3 (Super Version).csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Code PBL 3 (Super Version)\Code PBL 3 (Super Version)\obj\Debug\Code_PBL_3__Super_Version_.Form1.resources
+C:\Users\Admin\source\repos\Code PBL 3 (Super Version)\Code PBL 3 (Super Version)\obj\Debug\Code_PBL_3__Super_Version_.Properties.Resources.resources
+C:\Users\Admin\source\repos\Code PBL 3 (Super Version)\Code PBL 3 (Super Version)\obj\Debug\Code PBL 3 (Super Version).csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Code PBL 3 (Super Version)\Code PBL 3 (Super Version)\obj\Debug\Code PBL 3 (Super Version).csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Code PBL 3 (Super Version)\Code PBL 3 (Super Version)\obj\Debug\Code PBL 3 (Super Version).exe
+C:\Users\Admin\source\repos\Code PBL 3 (Super Version)\Code PBL 3 (Super Version)\obj\Debug\Code PBL 3 (Super Version).pdb
+C:\Users\SON\Documents\Zalo Received Files\Code PBL 3 (Super Version)\Code PBL 3 (Super Version)\bin\Debug\Code PBL 3 (Super Version).exe.config
+C:\Users\SON\Documents\Zalo Received Files\Code PBL 3 (Super Version)\Code PBL 3 (Super Version)\bin\Debug\Code PBL 3 (Super Version).exe
+C:\Users\SON\Documents\Zalo Received Files\Code PBL 3 (Super Version)\Code PBL 3 (Super Version)\bin\Debug\Code PBL 3 (Super Version).pdb
+C:\Users\SON\Documents\Zalo Received Files\Code PBL 3 (Super Version)\Code PBL 3 (Super Version)\obj\Debug\Code PBL 3 (Super Version).csproj.AssemblyReference.cache
+C:\Users\SON\Documents\Zalo Received Files\Code PBL 3 (Super Version)\Code PBL 3 (Super Version)\obj\Debug\Code PBL 3 (Super Version).csproj.SuggestedBindingRedirects.cache
+C:\Users\SON\Documents\Zalo Received Files\Code PBL 3 (Super Version)\Code PBL 3 (Super Version)\obj\Debug\Code_PBL_3__Super_Version_.Form1.resources
+C:\Users\SON\Documents\Zalo Received Files\Code PBL 3 (Super Version)\Code PBL 3 (Super Version)\obj\Debug\Code_PBL_3__Super_Version_.Properties.Resources.resources
+C:\Users\SON\Documents\Zalo Received Files\Code PBL 3 (Super Version)\Code PBL 3 (Super Version)\obj\Debug\Code PBL 3 (Super Version).csproj.GenerateResource.cache
+C:\Users\SON\Documents\Zalo Received Files\Code PBL 3 (Super Version)\Code PBL 3 (Super Version)\obj\Debug\Code PBL 3 (Super Version).csproj.CoreCompileInputs.cache
+C:\Users\SON\Documents\Zalo Received Files\Code PBL 3 (Super Version)\Code PBL 3 (Super Version)\obj\Debug\Code PBL 3 (Super Version).exe
+C:\Users\SON\Documents\Zalo Received Files\Code PBL 3 (Super Version)\Code PBL 3 (Super Version)\obj\Debug\Code PBL 3 (Super Version).pdb
